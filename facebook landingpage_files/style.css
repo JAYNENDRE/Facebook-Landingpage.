@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(240, 243, 246);
+     
+}
+
+.container{
+    position: absolute;
+    top: 32%;
+    left: 15%;
+    font-size: 30px;
+    line-height: 10%;
+
+}
+ h1{
+    color:rgb(0, 106, 255);
+    
+ }
+
+ p{
+    font-style:arial;
+    line-height: 100%;
+ }
+
+    header{ width: 315px;
+        height: 350px;
+        position: absolute;
+        top: 20%;
+        left: 59%;
+        background-color: white;
+        border-radius: 15px;
+    
+        
+    }
+
+    .box input{
+       width: 85%;
+        margin: 10px;
+        margin-top: 20px;
+        margin-left: 20px;
+        padding: 12px 20px;
+        border-radius: 15px;
+
+    }
+
+    .link1{
+        margin: 15px;
+        text-align: center;
+        background:rgb(0, 106, 255);
+        padding: 12px 20px;
+        border-radius: 15px;
+    }
+
+    .link1 a{ 
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .link2{
+        text-align: center;
+        margin: 15px ;
+    }
+    .link2 a{
+        text-decoration: none;
+    }
+    .link3{
+        position: absolute;
+        margin-top: 50px;
+        width:60%;
+        text-align: center;
+        margin: 10px;
+        margin-left: 45px;
+        background: green;
+        text-decoration: white;
+        padding: 10px 14px;
+        border-radius: 15px;
+    }
+
+    .link3 a{
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
